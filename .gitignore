@@ -2,17 +2,17 @@
 *.ap_
 *.class
 *.dex
-*.iml
+**/*.iml
 *.log
 
 local.properties
 
 .gradle/
+.idea/
 .navigation/
 
 bin/
 build/
 captures/
 gen/
-idea/
 proguard/

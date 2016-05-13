@@ -1,4 +1,4 @@
-package com.fz172.astronomy;
+package com.fz172.twilight;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;

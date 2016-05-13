@@ -6,7 +6,7 @@ import android.support.annotation.NonNull;
 import android.support.v4.app.Fragment;
 import android.support.v7.app.AppCompatActivity;
 
-import com.fz172.twilight.fragments.PlacesFragment;
+import com.fz172.twilight.placelist.PlacesFragment;
 import com.fz172.twilight.permissions.PermissionChecker;
 
 /**

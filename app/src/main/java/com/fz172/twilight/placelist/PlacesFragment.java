@@ -1,4 +1,4 @@
-package com.fz172.twilight.fragments;
+package com.fz172.twilight.placelist;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;

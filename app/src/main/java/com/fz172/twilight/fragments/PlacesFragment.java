@@ -22,6 +22,16 @@ public final class PlacesFragment extends Fragment {
                              @Nullable Bundle savedInstanceState) {
         mContentView = inflater.inflate(R.layout.places_fragment, container,
                 false /* attachToRoot */);
+        final FloatingActionButton fab = (FloatingActionButton) mContentView.findViewById(R.id.fab);
+        fab.setOnClickListener(new FabOnClickListener());
         return mContentView;
+    }
+
+    private final class FabOnClickListener implements View.OnClickListener {
+
+        @Override
+        public void onClick(View v) {
+
+        }
     }
 }

@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Twilight</string>
+
+    <!-- The title of the Settings activity. [CHAR LIMIT=20] -->
+    <string name="settings_label">Settings</string>
+
+    <!-- Dialog button label, when clicked dialog will be dismissed. [CHAR LIMIT=20] -->
+    <string name="dialog_button_dismiss">Dismiss</string>
+
+    <!-- Dialog message displayed when permission is not granted for app. [CHAR LIMIT=NONE] -->
+    <string name="dialog_message_permission_check_fail">
+        To function properly, Twilight needs your permission. Go to Settings to allow
+        permission.
+    </string>
 </resources>
